@@ -3,9 +3,9 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "trustedNuGetFeeds": [
-      {
-        "url": "https://api.nuget.org/v3/index.json",
-        "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
-      }
-    ]
+    {
+      "url": "https://api.nuget.org/v3/index.json",
+      "patterns": "FreddyKristiansen.App1.8c8eec06-bf1c-4ab6-b375-a0a6cf31a6bd"
+    }
+  ]
 }
